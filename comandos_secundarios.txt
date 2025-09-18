@@ -1,1 +1,4 @@
 Esse arquivo contém informaçöes adicionais para git
+
+- Primeiro commando
+- Se
