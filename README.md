@@ -2,3 +2,9 @@
 
 Um curso para iniciantes aprenderem a trabalhar com versionamento de Código e repositórios remotos com GitHub.
 
+
+
+E também GitFlow ao final do curso
+
+
+
