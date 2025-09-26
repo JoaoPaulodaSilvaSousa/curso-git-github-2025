@@ -6,5 +6,3 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de Código e r
 
 E também GitFlow ao final do curso
 
-
-
